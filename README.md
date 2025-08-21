@@ -140,7 +140,7 @@ send_email.php: The backend PHP script that processes the contact form data and 
 
 composer.json: Defines the project's PHP dependencies (in this case, PHPMailer).
 
-Dependencies
+Dependencie
 
 PHPMailer: A full-featured email creation and transfer class for PHP.
 
